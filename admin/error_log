@@ -1,0 +1,131 @@
+[18-Aug-2016 05:48:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 16
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 17
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 24
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 27
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 28
+[18-Aug-2016 05:48:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 29
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 16
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 17
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 24
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 27
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 28
+[18-Aug-2016 05:49:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 29
+[18-Aug-2016 05:49:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 16
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 17
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 24
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 27
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 28
+[18-Aug-2016 05:49:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 29
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 16
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 17
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 24
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 27
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 28
+[18-Aug-2016 05:51:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 29
+[18-Aug-2016 05:51:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'theb4cc6'@'localhost' (using password: YES) in /home/theb4cc6/public_html/fabricsource/admin/db_config.php on line 4
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 16
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 17
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 24
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 27
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 28
+[18-Aug-2016 05:52:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/theb4cc6/public_html/fabricsource/admin/index.php on line 29
+[09-Sep-2016 13:37:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/dashboard.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[09-Sep-2016 13:37:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/dashboard.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[09-Sep-2016 13:37:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/pending_orders.php:34) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[09-Sep-2016 13:37:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/pending_orders.php:34) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[04-Oct-2016 07:23:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/dashboard.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[04-Oct-2016 07:23:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/dashboard.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[04-Oct-2016 07:24:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/add_product.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[04-Oct-2016 07:24:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/add_product.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[04-Oct-2016 07:24:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/add_products.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[04-Oct-2016 07:24:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/theb4cc6/public_html/kwikpatch/admin/add_products.php:1) in /home/theb4cc6/public_html/kwikpatch/admin/header.php on line 2
+[24-Dec-2016 12:22:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:26:03 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:26:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:27:54 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:29:02 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:29:37 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:30:35 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:31:49 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:32:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 100
+[24-Dec-2016 12:37:46 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[24-Dec-2016 12:39:40 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[24-Dec-2016 12:40:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[24-Dec-2016 12:43:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[24-Dec-2016 12:52:48 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 47
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 50
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 103
+[26-Dec-2016 23:14:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 108
+[27-Dec-2016 05:58:01 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[27-Dec-2016 05:58:01 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[27-Dec-2016 05:58:01 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[27-Dec-2016 05:58:01 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[27-Dec-2016 05:58:01 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[27-Dec-2016 05:58:01 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/thebaztx/public_html/kwikpatch/admin/sub_category.php on line 3
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/thebaztx/public_html/kwikpatch/admin/sub_category.php on line 4
+[27-Dec-2016 06:30:51 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/thebaztx/public_html/kwikpatch/admin/sub_category.php on line 39
+[27-Dec-2016 07:50:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[27-Dec-2016 09:38:37 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[27-Dec-2016 09:55:15 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[28-Dec-2016 07:51:57 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[28-Dec-2016 07:51:57 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[28-Dec-2016 07:51:57 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[28-Dec-2016 07:51:57 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[28-Dec-2016 07:51:57 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[28-Dec-2016 07:51:57 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 47
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 50
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 103
+[28-Dec-2016 07:52:04 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/thebaztx/public_html/kwikpatch/admin/categorys.php on line 108
+[28-Dec-2016 07:52:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/thebaztx/public_html/kwikpatch/admin/subcategory_edit.php on line 2
+[28-Dec-2016 07:52:41 Etc/GMT] PHP Notice:  Undefined index: catid in /home/thebaztx/public_html/kwikpatch/admin/subcategory_edit.php on line 3
+[28-Dec-2016 07:52:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/thebaztx/public_html/kwikpatch/admin/subcategory_edit.php on line 8
+[28-Dec-2016 11:19:18 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[28-Dec-2016 11:19:18 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[28-Dec-2016 11:19:18 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[28-Dec-2016 11:19:18 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[28-Dec-2016 11:19:18 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[28-Dec-2016 11:19:18 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[02-Jan-2017 00:42:02 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 55
+[02-Jan-2017 00:42:02 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 75
+[02-Jan-2017 00:42:02 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 81
+[02-Jan-2017 00:42:02 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 99
+[02-Jan-2017 00:42:02 Etc/GMT] PHP Notice:  Undefined index: login in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 110
+[02-Jan-2017 00:42:02 Etc/GMT] PHP Notice:  Undefined index: user in /home/thebaztx/public_html/kwikpatch/admin/header.php on line 153
+[04-Jan-2017 05:39:05 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[04-Jan-2017 05:39:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[04-Jan-2017 05:40:49 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[04-Jan-2017 06:02:47 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[04-Jan-2017 06:03:34 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[07-Jan-2017 06:53:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[07-Jan-2017 06:54:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[07-Jan-2017 07:02:08 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[07-Jan-2017 07:04:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101
+[07-Jan-2017 09:44:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/thebaztx/public_html/kwikpatch/admin/cat_process.php on line 101

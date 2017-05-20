@@ -1,0 +1,17 @@
+	<?php  
+					$productimages=$row['path'];
+					      if(file_exists($productimages))
+             {
+             ?>
+             <div >
+             <img src="<?php echo $productimages;?>" alt=" <?php  echo $row['firstname'];?>"style="width: 80px; height: 80px;" />
+             </div>
+             <?php
+             }
+					
+					  else { ?>
+			<div class="form-group col-md-6">
+                      <label for="checkuot-form-zip" style="float:left;margin-right: 32px;">Choose Image:</label>
+						<input type="file" name="file" id="fileChooser" onchange="return ValidateFileUpload()" />
+                    </div>
+					<?php }  ?>

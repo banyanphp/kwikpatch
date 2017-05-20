@@ -1,0 +1,9 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+
+RewriteCond %{HTTP_HOST} ^kwikpatch\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.kwikpatch\.com$
+RewriteRule ^mail\/?$ "https\:\/\/www\.rediffmailpro\.com\/" [R=301,L]
+
